@@ -27,6 +27,7 @@ UI =['''
       (____)
 ---.__(___)
 ''']
+
 time.sleep(2)
 print(UI[player-1])
 print(UI[bot-1])
